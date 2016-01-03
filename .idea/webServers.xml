@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8c4d523d-f9ce-469b-af9b-c32c553bf59d" name="awd-ehb_webruimte-opdracht_3" url="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress">
+        <fileTransfer mountedRoot="/Volumes/robbe.vandendooren/public_html/WDA/wordpress/wp-content/plugins" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
